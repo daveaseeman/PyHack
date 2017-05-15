@@ -1,3 +1,6 @@
+# added by Dave
+ebook-pyhack/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
